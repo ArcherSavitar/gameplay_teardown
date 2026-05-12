@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagram version="1.0" id="core-gameplay" name="Alan Wake 2 Core Gameplay Systems">
+  <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <root>
+      <mxCell id="0"/>
+      <mxCell id="1" parent="0"/>
+
+      <!-- Title -->
+      <mxCell id="title1" value="《心灵杀手2》核心玩法系统关系图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="350" y="20" width="400" height="40" as="geometry"/>
+      </mxCell>
+
+      <!-- Dual Protagonist Core -->
+      <mxCell id="core1" value="双主角系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="400" y="80" width="300" height="50" as="geometry"/>
+      </mxCell>
+
+      <!-- Saga Branch -->
+      <mxCell id="saga1" value="萨贾·安德森 (FBI特工)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="100" y="180" width="200" height="40" as="geometry"/>
+      </mxCell>
+      <mxCell id="saga2" value="现实世界线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="100" y="240" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="saga3" value="犯罪调查线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="210" y="240" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="saga4" value="案件板分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="100" y="285" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="saga5" value="证据收集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="210" y="285" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="saga6" value="掩体射击" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="100" y="330" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="saga7" value="标准武器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="210" y="330" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="saga8" value="手枪/霰弹枪/冲锋枪/步枪" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="100" y="375" width="200" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Alan Branch -->
+      <mxCell id="alan1" value="艾伦·韦克 (失踪作家)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="600" y="180" width="200" height="40" as="geometry"/>
+      </mxCell>
+      <mxCell id="alan2" value="黑暗之地线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="600" y="240" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="alan3" value="写作机制线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="710" y="240" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="alan4" value="天使灯台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="600" y="285" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="alan5" value="场景变换谜题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="710" y="285" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="alan6" value="灵活走位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="600" y="330" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="alan7" value="光源武器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="710" y="330" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="alan8" value="经典左轮/猎枪/步枪/闪光弹" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="600" y="375" width="200" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Light-Dark Core Mechanism -->
+      <mxCell id="lightdark1" value="光暗对立核心机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="350" y="440" width="300" height="40" as="geometry"/>
+      </mxCell>
+      <mxCell id="lightdark2" value="光源 = 最强武器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+        <mxGeometry x="360" y="500" width="130" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="lightdark3" value="黑暗生物畏光" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+        <mxGeometry x="510" y="500" width="130" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="lightdark4" value="手电筒照射削弱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="360" y="545" width="130" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="lightdark5" value="闪光弹致盲+伤害" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="510" y="545" width="130" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="lightdark6" value="环境光源利用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="360" y="590" width="130" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="lightdark7" value="黑暗之力爆发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="510" y="590" width="130" height="30" as="geometry"/>
+      </mxCell>
+
+      <!-- Survival Resources -->
+      <mxCell id="survival1" value="生存资源系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="350" y="660" width="300" height="40" as="geometry"/>
+      </mxCell>
+      <mxCell id="survival2" value="弹药稀缺性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="360" y="710" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="survival3" value="生命值管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="470" y="710" width="90" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="survival4" value="黑暗之力充能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="580" y="710" width="90" height="30" as="geometry"/>
+      </mxCell>
+
+      <!-- Connections -->
+      <mxCell id="conn1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="saga1" target="core1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+      <mxCell id="conn2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="alan1" target="core1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+      <mxCell id="conn3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lightdark1" target="core1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+      <mxCell id="conn4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="survival1" target="lightdark1">
+        <mxGeometry relative="1" as="geometry"/>
+      </mxCell>
+
+      <!-- Legend -->
+      <mxCell id="legend1" value="图例" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="60" y="500" width="60" height="20" as="geometry"/>
+      </mxCell>
+      <mxCell id="legend2" value="主角系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="60" y="530" width="80" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="legend3" value="玩法系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="60" y="565" width="80" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="legend4" value="核心机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="60" y="600" width="80" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="legend5" value="资源系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="60" y="635" width="80" height="25" as="geometry"/>
+      </mxCell>
+
+    </root>
+  </mxGraphModel>
+</diagram>

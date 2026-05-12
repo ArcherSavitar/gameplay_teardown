@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagram version="1.0" id="character-progression" name="Alan Wake 2 Character Progression Path">
+  <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <root>
+      <mxCell id="0"/>
+      <mxCell id="1" parent="0"/>
+
+      <!-- Title -->
+      <mxCell id="title1" value="《心灵杀手2》角色成长路径图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="380" y="20" width="340" height="40" as="geometry"/>
+      </mxCell>
+
+      <!-- Dual Progression Core -->
+      <mxCell id="core1" value="双轨成长系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="400" y="80" width="300" height="45" as="geometry"/>
+      </mxCell>
+
+      <!-- Alan's Progression -->
+      <mxCell id="alan1" value="艾伦·韦克成长线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="80" y="170" width="200" height="40" as="geometry"/>
+      </mxCell>
+
+      <!-- Writing Ability -->
+      <mxCell id="writing1" value="写作能力成长" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" vertex="1" parent="1">
+        <mxGeometry x="80" y="230" width="200" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="writing2" value="基础写作 → 重写能力" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="80" y="270" width="90" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="writing3" value="创造光源/改变环境" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="190" y="270" width="90" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Light Combat -->
+      <mxCell id="light1" value="光源战斗精通" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" vertex="1" parent="1">
+        <mxGeometry x="80" y="310" width="200" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="light2" value="闪光弹充能效率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="80" y="350" width="90" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="light3" value="黑暗之力爆发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="190" y="350" width="90" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Weapon Progression -->
+      <mxCell id="alanwp1" value="武器升级路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" vertex="1" parent="1">
+        <mxGeometry x="80" y="390" width="200" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="alanwp2" value="经典左轮(6发)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="80" y="430" width="90" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="alanwp3" value="猎枪(2发)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="190" y="430" width="90" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="alanwp4" value="步枪(全自动)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="80" y="465" width="90" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="alanwp5" value="闪光弹(特殊弹药)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="190" y="465" width="90" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Alan's Design Philosophy -->
+      <mxCell id="alanphil" value="叙事能力导向" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="80" y="510" width="200" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="alanphil2" value="「作家」身份认同强化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="80" y="548" width="200" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Saga's Progression -->
+      <mxCell id="saga1" value="萨贾·安德森成长线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="620" y="170" width="200" height="40" as="geometry"/>
+      </mxCell>
+
+      <!-- FBI Skills -->
+      <mxCell id="fbi1" value="FBI技能体系" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" vertex="1" parent="1">
+        <mxGeometry x="620" y="230" width="200" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="fbi2" value="调查技能（专业培训）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="620" y="270" width="200" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="fbi3" value="战斗技能（射击训练）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="620" y="300" width="200" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Combat System -->
+      <mxCell id="combat1" value="战斗能力精通" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" vertex="1" parent="1">
+        <mxGeometry x="620" y="340" width="200" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="combat2" value="掩体射击技巧" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="620" y="380" width="90" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="combat3" value="弹药管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="730" y="380" width="90" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Weapon Progression -->
+      <mxCell id="sagawp1" value="武器升级路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" vertex="1" parent="1">
+        <mxGeometry x="620" y="420" width="200" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="sagawp2" value="手枪(均衡)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="620" y="460" width="90" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="sagawp3" value="霰弹枪(近战)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="730" y="460" width="90" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="sagawp4" value="冲锋枪(高射速)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="620" y="495" width="90" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="sagawp5" value="步枪(精确)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="730" y="495" width="90" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Saga's Design Philosophy -->
+      <mxCell id="sagaphil" value="职业技能导向" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="620" y="540" width="200" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="sagaphil2" value="「FBI特工」身份合理性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="620" y="578" width="200" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Shared Upgrades -->
+      <mxCell id="shared1" value="共享成长系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="350" y="170" width="200" height="40" as="geometry"/>
+      </mxCell>
+      <mxCell id="shared2" value="生命值上限提升" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="360" y="230" width="180" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="shared3" value="武器箱（弹药/射速/伤害）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="360" y="270" width="180" height="28" as="geometry"/>
+      </mxCell>
+
+      <!-- Design Philosophy -->
+      <mxCell id="philosophy1" value="双轨成长设计哲学" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="350" y="660" width="300" height="40" as="geometry"/>
+      </mxCell>
+      <mxCell id="philosophy2" value="满足不同玩家类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="360" y="720" width="140" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="philosophy3" value="角色差异化体验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="520" y="720" width="140" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="philosophy4" value="叙事驱动 vs 数值成长" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="360" y="760" width="140" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="philosophy5" value="技能自动解锁（嵌入叙事）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="520" y="760" width="140" height="28" as="geometry"/>
+      </mxCell>
+
+      <!-- Legend -->
+      <mxCell id="legend1" value="图例" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="60" y="720" width="60" height="20" as="geometry"/>
+      </mxCell>
+      <mxCell id="legend2" value="成长主线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="60" y="750" width="80" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="legend3" value="能力模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="60" y="785" width="80" height="25" as="geometry"/>
+      </mxCell>
+
+    </root>
+  </mxGraphModel>
+</diagram>

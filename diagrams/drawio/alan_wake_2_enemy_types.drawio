@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagram version="1.0" id="enemy-types" name="Alan Wake 2 Enemy Types Classification">
+  <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <root>
+      <mxCell id="0"/>
+      <mxCell id="1" parent="0"/>
+
+      <!-- Title -->
+      <mxCell id="title1" value="《心灵杀手2》敌人类型分类图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="380" y="20" width="340" height="40" as="geometry"/>
+      </mxCell>
+
+      <!-- Main Enemy Category -->
+      <mxCell id="main1" value="敌人系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="400" y="80" width="300" height="45" as="geometry"/>
+      </mxCell>
+
+      <!-- Basic Enemies -->
+      <mxCell id="basic1" value="基础敌人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="80" y="170" width="200" height="40" as="geometry"/>
+      </mxCell>
+
+      <!-- Taken (黑暗之子) -->
+      <mxCell id="taken1" value="黑暗之子 (Taken)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="80" y="240" width="200" height="35" as="geometry"/>
+      </mxCell>
+      <mxCell id="taken2" value="近战型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="80" y="290" width="90" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="taken3" value="畏光" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="190" y="290" width="90" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="taken4" value="冲锋+爪击" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="80" y="330" width="200" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="taken5" value="低血量，闪光弹高效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="80" y="360" width="200" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Returned (回归者) -->
+      <mxCell id="returned1" value="回归者 (Returned)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="80" y="410" width="200" height="35" as="geometry"/>
+      </mxCell>
+      <mxCell id="returned2" value="远程型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="80" y="460" width="90" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="returned3" value="弓箭攻击" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="190" y="460" width="90" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="returned4" value="保留生前战斗技能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="80" y="500" width="200" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="returned5" value="高耐久，需优先击杀" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="80" y="530" width="200" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Special Enemies -->
+      <mxCell id="special1" value="特殊敌人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="380" y="170" width="200" height="40" as="geometry"/>
+      </mxCell>
+
+      <!-- Crow (保姆) -->
+      <mxCell id="crow1" value="保姆 (Crow)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="380" y="240" width="200" height="35" as="geometry"/>
+      </mxCell>
+      <mxCell id="crow2" value="飞行型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="380" y="290" width="90" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="crow3" value="俯冲攻击" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="490" y="290" width="90" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="crow4" value="环境触发型激活" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="380" y="330" width="200" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Boiler (锅炉工) -->
+      <mxCell id="boiler1" value="锅炉工 (Boiler)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="380" y="380" width="200" height="35" as="geometry"/>
+      </mxCell>
+      <mxCell id="boiler2" value="秒杀型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="380" y="430" width="90" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="boiler3" value="接触即死" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="490" y="430" width="90" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="boiler4" value="蓝色火焰，巡逻机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="380" y="470" width="200" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="boiler5" value="需环境机制消灭" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="380" y="500" width="200" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Boss Enemies -->
+      <mxCell id="boss1" value="Boss敌人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="680" y="170" width="200" height="40" as="geometry"/>
+      </mxCell>
+
+      <!-- Horrors (惊惧者) -->
+      <mxCell id="horrors1" value="惊惧者 (Horrors)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="680" y="240" width="200" height="35" as="geometry"/>
+      </mxCell>
+      <mxCell id="horrors2" value="多阶段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="680" y="290" width="90" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="horrors3" value="大型实体" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="790" y="290" width="90" height="28" as="geometry"/>
+      </mxCell>
+      <mxCell id="horrors4" value="阶段转换机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="680" y="330" width="200" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="horrors5" value="特定弱点暴露窗口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="680" y="360" width="200" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="horrors6" value="光源照射/闪光弹/环境机制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="680" y="390" width="200" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="horrors7" value="完整情感弧线设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="680" y="420" width="200" height="25" as="geometry"/>
+      </mxCell>
+
+      <!-- Design Philosophy -->
+      <mxCell id="phil1" value="设计理念" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="380" y="580" width="300" height="40" as="geometry"/>
+      </mxCell>
+      <mxCell id="phil2" value="光暗对立 = 核心弱点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+        <mxGeometry x="390" y="640" width="140" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="phil3" value="差异化威胁类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+        <mxGeometry x="550" y="640" width="140" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="phil4" value="心理恐怖 > Jump Scare" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="390" y="685" width="140" height="30" as="geometry"/>
+      </mxCell>
+      <mxCell id="phil5" value="环境叙事融合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="1">
+        <mxGeometry x="550" y="685" width="140" height="30" as="geometry"/>
+      </mxCell>
+
+      <!-- Legend -->
+      <mxCell id="legend1" value="图例" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxGeometry x="60" y="620" width="60" height="20" as="geometry"/>
+      </mxCell>
+      <mxCell id="legend2" value="敌人分类" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="60" y="650" width="80" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="legend3" value="敌人亚类" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="60" y="685" width="80" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="legend4" value="行为特征" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="60" y="720" width="80" height="25" as="geometry"/>
+      </mxCell>
+      <mxCell id="legend5" value="设计细节" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10" vertex="1" parent="1">
+        <mxGeometry x="60" y="755" width="80" height="25" as="geometry"/>
+      </mxCell>
+
+    </root>
+  </mxGraphModel>
+</diagram>
