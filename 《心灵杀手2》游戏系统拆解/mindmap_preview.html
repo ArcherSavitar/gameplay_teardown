@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>《心灵杀手2》游戏系统思维导图</title>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: "Microsoft YaHei", "PingFang SC", sans-serif; background: #1a1a2e; color: #eee; }
+    .header { background: linear-gradient(135deg, #16213e, #0f3460); padding: 30px; text-align: center; }
+    .header h1 { font-size: 2em; margin-bottom: 10px; }
+    .header p { color: #94a3b8; }
+    .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+    .diagram-section { background: #16213e; border-radius: 12px; margin-bottom: 30px; overflow: hidden; }
+    .diagram-header { background: #0f3460; padding: 20px 25px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; }
+    .diagram-header h2 { font-size: 1.3em; }
+    .toggle-icon { font-size: 1.5em; transition: transform 0.3s; }
+    .diagram-content { padding: 30px; display: block; }
+    .diagram-content.collapsed { display: none; }
+    .mermaid { background: #fff; border-radius: 8px; padding: 20px; text-align: center; }
+    .footer { text-align: center; padding: 30px; color: #64748b; }
+    .tag { display: inline-block; background: #3b82f6; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; margin: 2px; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>《心灵杀手2》游戏系统完整拆解</h1>
+    <p>Alan Wake 2 Game System Breakdown - 可视化思维导图</p>
+  </div>
+
+  <div class="container">
+
+    <!-- 图1: 游戏系统总体架构 -->
+    <div class="diagram-section">
+      <div class="diagram-header" onclick="toggleDiagram(this)">
+        <h2>一、游戏系统总体架构</h2>
+        <span class="toggle-icon">−</span>
+      </div>
+      <div class="diagram-content">
+        <pre class="mermaid">
+mindmap
+  root((《心灵杀手2》))
+    核心叙事驱动引擎
+      双线叙事系统
+        萨贾·安德森线
+        艾伦·韦克线
+      案件板系统
+      电影化叙事
+    萨贾·安德森线
+      FBI调查系统
+      射击战斗系统
+      掩体系统
+      证据收集
+    艾伦·韦克线
+      写作机制
+      光源战斗
+      黑暗之力
+      场景变换
+    共享系统层
+      敌人系统
+      资源管理
+      安全屋/检查点
+      难度系统
+    环境层
+      亮瀑镇
+      黑暗之地
+    UI/交互层
+      主菜单噩梦主题
+      案件板界面
+        </pre>
+      </div>
+    </div>
+
+    <!-- 图2: 双线叙事架构 -->
+    <div class="diagram-section">
+      <div class="diagram-header" onclick="toggleDiagram(this)">
+        <h2>二、双线叙事架构</h2>
+        <span class="toggle-icon">−</span>
+      </div>
+      <div class="diagram-content">
+        <pre class="mermaid">
+mindmap
+  root((双线叙事))
+    萨贾·安德森
+      FBI特工
+      现实世界
+      犯罪调查
+      案件板分析
+      掩体射击
+    艾伦·韦克
+      失踪作家
+      黑暗之地
+      写作机制
+      光源战斗
+      场景变换
+    交叉融合点
+      叙事交叉
+      真相相互映射
+      双线汇合高潮
+        </pre>
+      </div>
+    </div>
+
+    <!-- 图3: 光暗对立核心机制 -->
+    <div class="diagram-section">
+      <div class="diagram-header" onclick="toggleDiagram(this)">
+        <h2>三、光暗对立核心机制</h2>
+        <span class="toggle-icon">−</span>
+      </div>
+      <div class="diagram-content">
+        <pre class="mermaid">
+mindmap
+  root((光暗对立))
+    核心原则
+      光源 = 最强武器
+      黑暗生物天然畏光
+    战术应用
+      手电筒照射削弱敌人
+      闪光弹致盲+直接伤害
+      环境光源利用
+      黑暗之力范围爆发
+    设计价值
+      颠覆传统射击思维
+      创造"光源优于弹药"策略
+      强化心理恐怖氛围
+        </pre>
+      </div>
+    </div>
+
+    <!-- 图4: 经济系统 -->
+    <div class="diagram-section">
+      <div class="diagram-header" onclick="toggleDiagram(this)">
+        <h2>四、经济系统</h2>
+        <span class="toggle-icon">−</span>
+      </div>
+      <div class="diagram-content">
+        <pre class="mermaid">
+mindmap
+  root((经济系统))
+    弹药经济
+      产出：敌人掉落/环境拾取
+      消耗：射击/技能释放
+      特点：稀缺性设计
+    生命恢复经济
+      产出：热狗摊/医疗包
+      消耗：受到攻击
+      特点：区域唯一恢复
+    黑暗之力经济
+      产出：环境收集/咖啡/击杀
+      消耗：对抗黑暗生物
+      特点：充能爆发机制
+        </pre>
+      </div>
+    </div>
+
+    <!-- 图5: 双轨成长系统 -->
+    <div class="diagram-section">
+      <div class="diagram-header" onclick="toggleDiagram(this)">
+        <h2>五、双轨成长系统</h2>
+        <span class="toggle-icon">−</span>
+      </div>
+      <div class="diagram-content">
+        <pre class="mermaid">
+mindmap
+  root((双轨成长))
+    艾伦·韦克
+      写作能力成长
+        基础写作 → 重写能力
+        创造光源/改变环境
+      光源战斗精通
+        闪光弹充能效率
+        黑暗之力爆发
+      武器升级
+        经典左轮/猎枪/步枪/闪光弹
+      设计哲学
+        叙事能力导向
+        「作家」身份认同
+    萨贾·安德森
+      FBI技能体系
+        调查技能（专业培训）
+        战斗技能（射击训练）
+      战斗能力精通
+        掩体射击
+        弹药管理
+      武器升级
+        手枪/霰弹枪/冲锋枪/步枪
+      设计哲学
+        职业技能导向
+        「FBI特工」身份合理
+    共享系统
+      生命值上限提升
+      武器箱永久升级
+        </pre>
+      </div>
+    </div>
+
+    <!-- 图6: 敌人系统 -->
+    <div class="diagram-section">
+      <div class="diagram-header" onclick="toggleDiagram(this)">
+        <h2>六、敌人系统</h2>
+        <span class="toggle-icon">−</span>
+      </div>
+      <div class="diagram-content">
+        <pre class="mermaid">
+mindmap
+  root((敌人系统))
+    基础敌人
+      黑暗之子
+        近战型
+        畏光特性
+        冲锋+爪击
+      回归者
+        远程型
+        弓箭攻击
+        保留生前技能
+    特殊敌人
+      保姆
+        飞行型
+        俯冲攻击
+      锅炉工
+        秒杀型
+        蓝色火焰
+    Boss敌人
+      惊惧者
+        多阶段战斗
+        弱点暴露机制
+        完整情感弧线
+        </pre>
+      </div>
+    </div>
+
+    <!-- 图7: 恐怖氛围 -->
+    <div class="diagram-section">
+      <div class="diagram-header" onclick="toggleDiagram(this)">
+        <h2>七、恐怖氛围营造</h2>
+        <span class="toggle-icon">−</span>
+      </div>
+      <div class="diagram-content">
+        <pre class="mermaid">
+mindmap
+  root((恐怖氛围))
+    视觉设计
+      黑暗/潮湿/阴冷基调
+      蓝灰色调+薄雾
+    声音设计
+      不确定的声音来源
+      远处低语/跟随脚步
+    光暗对立
+      光源=安全/控制
+      黑暗=未知/危险
+    心理恐怖
+      质疑什么是真实的
+      认知层面恐惧 > jump scare
+    Jump Scare
+      战略性使用
+      稀缺资源
+      最大冲击效果
+        </pre>
+      </div>
+    </div>
+
+    <!-- 图8: 设计哲学总结 -->
+    <div class="diagram-section">
+      <div class="diagram-header" onclick="toggleDiagram(this)">
+        <h2>八、设计哲学总结</h2>
+        <span class="toggle-icon">−</span>
+      </div>
+      <div class="diagram-content">
+        <pre class="mermaid">
+mindmap
+  root((设计哲学))
+    叙事即玩法
+      案件板 = 操控游戏世界的手段
+      写作 = 改变现实的能力
+      双线叙事 = 结构性设计而非技巧
+    心理恐怖优先
+      环境叙事 > Jump Scare
+      光暗对立 = 核心机制也是隐喻
+      认知恐惧 > 即时恐惧
+    角色差异化
+      叙事能力 vs 职业技能
+      灵活走位 vs 掩体射击
+      不同玩家类型满足
+    资源稀缺性
+      恐惧核心：资源不足
+      每发子弹都有战术目的
+      探索奖励 > 战斗收益
+        </pre>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="footer">
+    <p>基于 Arshis-Game-Design-Pro 游戏设计方法论</p>
+    <p>《心灵杀手2》游戏系统拆解 | Alan Wake 2 Game System Breakdown</p>
+  </div>
+
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: 'dark',
+      mindmap: {
+        padding: 20,
+        useMaxWidth: true
+      }
+    });
+
+    function toggleDiagram(header) {
+      const content = header.nextElementSibling;
+      const icon = header.querySelector('.toggle-icon');
+      content.classList.toggle('collapsed');
+      icon.textContent = content.classList.contains('collapsed') ? '+' : '−';
+    }
+  </script>
+</body>
+</html>
